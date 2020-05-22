@@ -2,4 +2,5 @@
 ***
 **Environment**
 - Tensorflow 1.4
-- SUMO
+- SUMO-0.32.0
+- Ubuntu 16.04
